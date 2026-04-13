@@ -5,7 +5,7 @@
 <div align="center">
 <picture align="center">
   <source
-    srcset="https://github-readme-stats-mauve-psi-33.vercel.app/api?username=EchoPrograms&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats-mauve-psi-33.vercel.app/api?username=EchoPrograms&show_icons=true&theme=dark&commits_year=2020"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats-mauve-psi-33.vercel.app/api?username=EchoPrograms&show_icons=true&theme=dark&commits_year=2026" />
