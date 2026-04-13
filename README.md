@@ -17,6 +17,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=echoprograms&show_icons=true&locale=en&layout=compact" alt="echoprograms" /></p>
 
+[![Anuraghazra's GitHub stats](https://github-readme-stats.vercel.app/api?username=EchoPrograms)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
