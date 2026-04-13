@@ -1,4 +1,4 @@
-<!--START_SECTION:hackatime-->
+<!--START_SECTION:waka-->
 ## ⏱ Hackatime Stats
 
 **Total Time:** 126h 25m 44s
@@ -9,5 +9,4 @@
 - netrw: 12h 15m (9.7%)
 - Other: 10h 54m (8.6%)
 - INI: 5h 23m (4.3%)
-
-<!--END_SECTION:hackatime-->
+<!--END_SECTION:waka-->
