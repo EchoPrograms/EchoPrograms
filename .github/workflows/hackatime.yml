@@ -27,7 +27,7 @@ jobs:
             -o stats.json
 
       - name: Generate README
-        run: python3 generate.py
+        run: python3 .github/workflows/generate.py
 
       - name: Commit changes
         run: |
