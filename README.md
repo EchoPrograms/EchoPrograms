@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Brogan</h1>
 <h3 align="center">A Cybersecurity Student and Computer Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=echoprograms&label=Profile%20views&color=0e75b6&style=flat" alt="echoprograms" /> </p>
 <div align="center">
 <picture align="center">
   <source
@@ -17,7 +16,7 @@
 
 </picture>
 
-<div align="center">
+<div align="center" width="50%">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -39,3 +38,5 @@ TypeScript   0 hrs 2 mins          ░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=echoprograms&label=Profile%20views&color=0e75b6&style=flat" alt="echoprograms" /> </p>
