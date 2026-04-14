@@ -22,11 +22,11 @@
 ```txt
 From: 06 April 2026 - To: 13 April 2026
 
-Total Time: 13 hrs 23 mins
+Total Time: 13 hrs 25 mins
 
-Java         12 hrs 14 mins        █████████████████████░░░░   83.35 %
-unknown      0 hrs 44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-netrw        0 hrs 40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Java         12 hrs 16 mins        █████████████████████░░░░   83.39 %
+unknown      0 hrs 44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+netrw        0 hrs 40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
 Shell        0 hrs 18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 Verilog      0 hrs 14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 tmux         0 hrs 7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
