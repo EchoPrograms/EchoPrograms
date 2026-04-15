@@ -20,20 +20,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2026 - To: 13 April 2026
+From: 07 April 2026 - To: 14 April 2026
 
-Total Time: 13 hrs 25 mins
+Total Time: 17 hrs 48 mins
 
-Java         12 hrs 16 mins        █████████████████████░░░░   83.39 %
-unknown      0 hrs 44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-netrw        0 hrs 40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-Shell        0 hrs 18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Verilog      0 hrs 14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-tmux         0 hrs 7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-hyprlang     0 hrs 5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Groovy       0 hrs 4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-INI          0 hrs 4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-TypeScript   0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Java         16 hrs 46 mins        ████████████████████▒░░░░   81.22 %
+netrw        1 hrs 40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+unknown      1 hrs 8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+Shell        0 hrs 18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Verilog      0 hrs 14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Groovy       0 hrs 8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+tmux         0 hrs 7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+TypeScript   0 hrs 5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+INI          0 hrs 4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JSON         0 hrs 4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
