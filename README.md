@@ -20,19 +20,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 April 2026 - To: 19 April 2026
+From: 13 April 2026 - To: 20 April 2026
 
-Total Time: 13 hrs 38 mins
+Total Time: 15 hrs 6 mins
 
-Java            13 hrs 12 mins        ████████████████████▒░░░░   80.85 %
-netrw           1 hrs 55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
-unknown         0 hrs 49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Groovy          0 hrs 14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-INI             0 hrs 4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-tmux            0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-JSON            0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-fugitiveblame   0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-JavaScript      0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Java            14 hrs 40 mins        ████████████████████▒░░░░   81.18 %
+netrw           1 hrs 59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+unknown         1 hrs 1 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Groovy          0 hrs 14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+INI             0 hrs 4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+tmux            0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JSON            0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+fugitiveblame   0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JavaScript      0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
