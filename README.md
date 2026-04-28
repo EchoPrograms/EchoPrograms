@@ -20,15 +20,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2026 - To: 26 April 2026
+From: 20 April 2026 - To: 27 April 2026
 
-Total Time: 4 hrs 8 mins
+Total Time: 3 hrs 21 mins
 
-Java      3 hrs 52 mins         █████████████████████▒░░░   85.90 %
-unknown   0 hrs 14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-C++       0 hrs 13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-netrw     0 hrs 8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-tmux      0 hrs 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Java      3 hrs 3 mins          █████████████████████░░░░   83.70 %
+unknown   0 hrs 16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+C++       0 hrs 13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+netrw     0 hrs 6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
