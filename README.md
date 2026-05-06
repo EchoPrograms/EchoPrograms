@@ -20,16 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2026 - To: 04 May 2026
+From: 28 April 2026 - To: 05 May 2026
 
-Total Time: 2 hrs 5 mins
+Total Time: 2 hrs 7 mins
 
-Java       1 hrs 47 mins         █████████████████░░░░░░░░   67.65 %
-unknown    0 hrs 19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
-netrw      0 hrs 13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-Markdown   0 hrs 9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-tmux       0 hrs 4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-conf       0 hrs 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Java       1 hrs 51 mins         █████████████████▓░░░░░░░   70.17 %
+unknown    0 hrs 17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+netrw      0 hrs 15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
+Markdown   0 hrs 9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+tmux       0 hrs 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 C++        0 hrs 1 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 Lua        0 hrs 1 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 Text       0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
