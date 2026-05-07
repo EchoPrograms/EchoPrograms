@@ -20,18 +20,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2026 - To: 05 May 2026
+From: 29 April 2026 - To: 06 May 2026
 
-Total Time: 2 hrs 7 mins
+Total Time: 1 hrs 46 mins
 
-Java       1 hrs 51 mins         █████████████████▓░░░░░░░   70.17 %
-unknown    0 hrs 17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
-netrw      0 hrs 15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
-Markdown   0 hrs 9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-tmux       0 hrs 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-C++        0 hrs 1 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Lua        0 hrs 1 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Text       0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Java       0 hrs 58 mins         ██████████░░░░░░░░░░░░░░░   40.14 %
+unknown    0 hrs 20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+netrw      0 hrs 16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+Shell      0 hrs 14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
+Lua        0 hrs 13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+Markdown   0 hrs 9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+Verilog    0 hrs 8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+tmux       0 hrs 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+C++        0 hrs 1 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
