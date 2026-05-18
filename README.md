@@ -20,16 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2026 - To: 16 May 2026
+From: 10 May 2026 - To: 17 May 2026
 
-Total Time: 8 hrs 32 mins
+Total Time: 7 hrs 45 mins
 
-C#         7 hrs 56 mins         █████████████████████░░░░   84.22 %
-netrw      0 hrs 31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-Lua        0 hrs 22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-unknown    0 hrs 21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-Java       0 hrs 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-GDShader   0 hrs 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+C#         7 hrs 35 mins         ████████████████████████▒   97.08 %
+netrw      0 hrs 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+GDShader   0 hrs 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+unknown    0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Java       0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
