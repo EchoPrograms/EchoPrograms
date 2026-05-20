@@ -20,14 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2026 - To: 18 May 2026
+From: 12 May 2026 - To: 19 May 2026
 
-Total Time: 6 hrs 28 mins
+Total Time: 5 hrs 28 mins
 
-C#        6 hrs 20 mins         ████████████████████████▒   97.51 %
-netrw     0 hrs 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-unknown   0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Java      0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+C#      5 hrs 20 mins         ████████████████████████▓   98.76 %
+netrw   0 hrs 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
