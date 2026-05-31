@@ -20,13 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2026 - To: 29 May 2026
+From: 23 May 2026 - To: 30 May 2026
 
-Total Time: 2 hrs 10 mins
+Total Time: 0 hrs 4 mins
 
-C#         2 hrs 0 mins          ██████████████████████▓░░   91.07 %
-netrw      0 hrs 9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-hyprlang   0 hrs 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+hyprlang   0 hrs 2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
