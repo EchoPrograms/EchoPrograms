@@ -20,13 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2026 - To: 05 July 2026
+From: 29 June 2026 - To: 06 July 2026
 
-Total Time: 3 hrs 28 mins
+Total Time: 2 hrs 56 mins
 
-unknown   3 hrs 19 mins         ████████████████████████▒   97.38 %
-Lua       0 hrs 4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Shell     0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+unknown    2 hrs 47 mins         ███████████████████████░░   92.27 %
+Lua        0 hrs 8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+netrw      0 hrs 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+hyprlang   0 hrs 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Shell      0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
