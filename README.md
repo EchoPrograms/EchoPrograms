@@ -20,12 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2026 - To: 24 July 2026
+From: 19 July 2026 - To: 26 July 2026
 
-Total Time: 0 hrs 55 mins
+Total Time: 0 hrs 29 mins
 
-unknown    0 hrs 55 mins         ████████████████████████▓   98.01 %
-hyprlang   0 hrs 1 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+unknown   0 hrs 27 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
