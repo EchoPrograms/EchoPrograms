@@ -20,15 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2026 - To: 05 August 2026
+From: 30 July 2026 - To: 06 August 2026
 
-Total Time: 5 hrs 6 mins
+Total Time: 5 hrs 4 mins
 
-unknown    2 hrs 32 mins         █████████▒░░░░░░░░░░░░░░░   37.64 %
-Markdown   2 hrs 2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.32 %
-Shell      0 hrs 51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
-Python     0 hrs 37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-Text       0 hrs 27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+unknown    2 hrs 30 mins         █████████▒░░░░░░░░░░░░░░░   37.33 %
+Markdown   2 hrs 2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.47 %
+Shell      0 hrs 51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
+Python     0 hrs 37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+Text       0 hrs 27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
 hyprlang   0 hrs 5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 XML        0 hrs 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 Lua        0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
