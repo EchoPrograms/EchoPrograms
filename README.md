@@ -20,19 +20,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2026 - To: 12 August 2026
+From: 06 August 2026 - To: 13 August 2026
 
-Total Time: 3 hrs 5 mins
+Total Time: 2 hrs 57 mins
 
-unknown    1 hrs 31 mins         ███████████▒░░░░░░░░░░░░░   45.76 %
-YAML       0 hrs 46 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.30 %
-Shell      0 hrs 26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
-Shell      0 hrs 12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-JSX        0 hrs 8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Markdown   0 hrs 6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-netrw      0 hrs 4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-jq         0 hrs 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-CSS        0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+unknown    1 hrs 23 mins         ███████████░░░░░░░░░░░░░░   43.42 %
+YAML       0 hrs 46 mins         ██████░░░░░░░░░░░░░░░░░░░   24.31 %
+Shell      0 hrs 26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
+Shell      0 hrs 12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+JSX        0 hrs 8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Markdown   0 hrs 6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+netrw      0 hrs 4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+jq         0 hrs 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+CSS        0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
