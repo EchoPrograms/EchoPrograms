@@ -22,12 +22,15 @@
 ```txt
 From: 22 August 2026 - To: 29 August 2026
 
-Total Time: 5 hrs 53 mins
+Total Time: 9 hrs 31 mins
 
-unknown   5 hrs 9 mins          ███████████████████▓░░░░░   78.77 %
-Python    0 hrs 40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-Shell     0 hrs 39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-JSON      0 hrs 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+unknown   8 hrs 4 mins          ██████████████████▒░░░░░░   73.56 %
+Python    1 hrs 45 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
+Shell     0 hrs 49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Lua       0 hrs 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+INI       0 hrs 5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+JSON      0 hrs 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+C++       0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
