@@ -20,18 +20,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2026 - To: 31 August 2026
+From: 25 August 2026 - To: 01 September 2026
 
-Total Time: 11 hrs 14 mins
+Total Time: 13 hrs 8 mins
 
-unknown   9 hrs 37 mins         ██████████████████▒░░░░░░   72.70 %
-Python    1 hrs 53 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Shell     1 hrs 2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-Lua       0 hrs 16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-CSS       0 hrs 11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-JSON      0 hrs 7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-INI       0 hrs 5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-C++       0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+unknown   11 hrs 25 mins        ██████████████████▓░░░░░░   74.31 %
+Python    1 hrs 53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+Shell     1 hrs 4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+Lua       0 hrs 16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+CSS       0 hrs 11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+YAML      0 hrs 8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+JSON      0 hrs 7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+XML       0 hrs 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+INI       0 hrs 5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Nginx     0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
