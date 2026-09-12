@@ -20,17 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2026 - To: 10 September 2026
+From: 04 September 2026 - To: 11 September 2026
 
-Total Time: 4 hrs 29 mins
+Total Time: 3 hrs 6 mins
 
-unknown          3 hrs 48 mins         ███████████████████▒░░░░░   77.45 %
-Shell            0 hrs 33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-Python           0 hrs 19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-SQL              0 hrs 6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Nginx            0 hrs 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-YAML             0 hrs 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-RGBDS Assembly   0 hrs 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+unknown          2 hrs 51 mins         █████████████████████▓░░░   86.13 %
+Shell            0 hrs 19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+Nginx            0 hrs 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+YAML             0 hrs 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+RGBDS Assembly   0 hrs 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
