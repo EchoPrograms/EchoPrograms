@@ -20,14 +20,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2026 - To: 13 September 2026
+From: 07 September 2026 - To: 14 September 2026
 
-Total Time: 2 hrs 26 mins
+Total Time: 6 hrs 26 mins
 
-unknown          2 hrs 14 mins         ███████████████████████░░   92.14 %
-Shell            0 hrs 9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-RGBDS Assembly   0 hrs 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-YAML             0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+unknown          6 hrs 11 mins         ███████████████████████▓░   94.90 %
+Shell            0 hrs 9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Io               0 hrs 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+YAML             0 hrs 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+RGBDS Assembly   0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
