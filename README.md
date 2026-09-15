@@ -2,15 +2,7 @@
 <h1 align="center">Hi 👋, I'm Brogan</h1>
 <h3 align="center">A Cybersecurity Student and Computer Enthusiast</h3>
 
-<div align="center">
-<picture align="center">
-  <source
-    srcset="https://github-readme-stats-mauve-psi-33.vercel.app/api?username=EchoPrograms&show_icons=true&theme=dark&commits_year=2026&hide_border=true&include_all_commits=true&hide_rank=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats-mauve-psi-33.vercel.app/api?username=EchoPrograms&show_icons=true&theme=dark&commits_year=2026" />
-</picture>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EchoPrograms&hide_rank=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=EchoPrograms&hide_rank=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)
 
 
 
