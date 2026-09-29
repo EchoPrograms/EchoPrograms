@@ -28,20 +28,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2026 - To: 27 September 2026
+From: 21 September 2026 - To: 28 September 2026
 
-Total Time: 7 hrs 8 mins
+Total Time: 9 hrs 9 mins
 
-unknown      6 hrs 2 mins          ██████████████████░░░░░░░   72.57 %
-Shell        0 hrs 48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-Shell        0 hrs 31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Python       0 hrs 21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-TypeScript   0 hrs 12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Assembly     0 hrs 10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-JavaScript   0 hrs 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Markdown     0 hrs 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Text         0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-JSON         0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+unknown      8 hrs 2 mins          ███████████████████▒░░░░░   76.93 %
+Shell        0 hrs 55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+Shell        0 hrs 37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+Python       0 hrs 17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+TypeScript   0 hrs 12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Assembly     0 hrs 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Markdown     0 hrs 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+JavaScript   0 hrs 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+JSON         0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
