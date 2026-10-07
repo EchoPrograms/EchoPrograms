@@ -30,13 +30,13 @@
 ```txt
 From: 29 September 2026 - To: 06 October 2026
 
-Total Time: 20 hrs 51 mins
+Total Time: 28 hrs 52 mins
 
-unknown     18 hrs 8 mins         █████████████████████░░░░   84.52 %
-Python      2 hrs 38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
-Markdown    0 hrs 30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Shell       0 hrs 7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Batchfile   0 hrs 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+unknown     23 hrs 30 mins        ███████████████████▒░░░░░   77.39 %
+Python      5 hrs 33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
+Markdown    1 hrs 8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Shell       0 hrs 7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Batchfile   0 hrs 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
