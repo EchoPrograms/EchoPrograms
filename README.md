@@ -30,16 +30,16 @@
 ```txt
 From: 06 October 2026 - To: 13 October 2026
 
-Total Time: 26 hrs 11 mins
+Total Time: 29 hrs 38 mins
 
-unknown     23 hrs 27 mins        █████████████████████▓░░░   86.29 %
-Python      2 hrs 52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
-Markdown    0 hrs 37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-Shell       0 hrs 5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Shell       0 hrs 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-HTML        0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Text        0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Batchfile   0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+unknown     26 hrs 54 mins        ██████████████████████░░░   87.73 %
+Python      2 hrs 52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+Markdown    0 hrs 37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Shell       0 hrs 7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Shell       0 hrs 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+HTML        0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Text        0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Batchfile   0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
