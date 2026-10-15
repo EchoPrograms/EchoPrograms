@@ -28,18 +28,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2026 - To: 13 October 2026
+From: 07 October 2026 - To: 14 October 2026
 
-Total Time: 29 hrs 38 mins
+Total Time: 25 hrs 38 mins
 
-unknown     26 hrs 54 mins        ██████████████████████░░░   87.73 %
-Python      2 hrs 52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-Markdown    0 hrs 37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-Shell       0 hrs 7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Shell       0 hrs 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-HTML        0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Text        0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Batchfile   0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+unknown   25 hrs 34 mins        ████████████████████████▓   99.07 %
+Shell     0 hrs 7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Shell     0 hrs 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+HTML      0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Text      0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
