@@ -28,15 +28,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2026 - To: 19 October 2026
+From: 13 October 2026 - To: 20 October 2026
 
-Total Time: 20 hrs 22 mins
+Total Time: 21 hrs 9 mins
 
-unknown    20 hrs 22 mins        █████████████████████████   99.68 %
-JSON       0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Markdown   0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+unknown    21 hrs 4 mins         ████████████████████████▓   98.54 %
+Shell      0 hrs 6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+JSON       0 hrs 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Shell      0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Assembly   0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Roff       0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Markdown   0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 Text       0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Shell      0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
