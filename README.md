@@ -28,15 +28,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2026 - To: 27 October 2026
+From: 21 October 2026 - To: 28 October 2026
 
-Total Time: 42 hrs 43 mins
+Total Time: 39 hrs 45 mins
 
-unknown    42 hrs 29 mins        ████████████████████████▒   97.95 %
-Shell      0 hrs 25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Shell      0 hrs 15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Roff       0 hrs 7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Assembly   0 hrs 4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+unknown   39 hrs 36 mins        ████████████████████████▓   98.57 %
+Shell     0 hrs 16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Shell     0 hrs 13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Roff      0 hrs 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
