@@ -28,14 +28,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2026 - To: 29 October 2026
+From: 23 October 2026 - To: 30 October 2026
 
-Total Time: 35 hrs 5 mins
+Total Time: 29 hrs 11 mins
 
-unknown   34 hrs 56 mins        ████████████████████████▓   98.38 %
-Shell     0 hrs 16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Shell     0 hrs 13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Roff      0 hrs 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+unknown   29 hrs 4 mins         ████████████████████████▓   98.15 %
+Shell     0 hrs 16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Shell     0 hrs 13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Text      0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
