@@ -30,14 +30,15 @@
 ```txt
 From: 05 November 2026 - To: 12 November 2026
 
-Total Time: 6 hrs 55 mins
+Total Time: 7 hrs 41 mins
 
-unknown    6 hrs 33 mins         █████████████████████▒░░░   85.29 %
-Python     0 hrs 32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-Shell      0 hrs 17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Shell      0 hrs 13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Assembly   0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-JSON       0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+unknown    7 hrs 19 mins         █████████████████████▓░░░   86.28 %
+Python     0 hrs 32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Shell      0 hrs 17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Shell      0 hrs 13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Assembly   0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+JSON       0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Markdown   0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
