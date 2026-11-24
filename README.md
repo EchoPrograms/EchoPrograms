@@ -28,19 +28,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2026 - To: 23 November 2026
+From: 17 November 2026 - To: 24 November 2026
 
-Total Time: 12 hrs 15 mins
+Total Time: 9 hrs 55 mins
 
-unknown      12 hrs 8 mins         ████████████████████████░   95.68 %
-Shell        0 hrs 8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Shell        0 hrs 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Python       0 hrs 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Dockerfile   0 hrs 5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-JSON         0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Lua          0 hrs 2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Go Module    0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Text         0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+unknown      9 hrs 51 mins         ████████████████████████░   96.66 %
+Shell        0 hrs 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Shell        0 hrs 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Dockerfile   0 hrs 5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Go Module    0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 Roff         0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
