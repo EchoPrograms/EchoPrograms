@@ -28,13 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2026 - To: 25 November 2026
+From: 19 November 2026 - To: 26 November 2026
 
-Total Time: 9 hrs 36 mins
+Total Time: 8 hrs 4 mins
 
-unknown   9 hrs 35 mins         ████████████████████████▓   98.26 %
-Shell     0 hrs 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Shell     0 hrs 4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+unknown   8 hrs 4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
